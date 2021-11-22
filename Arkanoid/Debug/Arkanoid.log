@@ -1,0 +1,21 @@
+﻿  Engine.cpp
+E:\c++ projects\Arkanoid\Arkanoid\Engine.cpp(24,83): warning C4244: 'argument': conversion from '_Rep' to 'const int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  PaintDevice.cpp
+E:\c++ projects\Arkanoid\Arkanoid\PaintDevice.cpp(68,38): warning C4244: 'initializing': conversion from 'Size::PointType' to 'unsigned int', possible loss of data
+E:\c++ projects\Arkanoid\Arkanoid\PaintDevice.cpp(69,31): warning C4244: '=': conversion from 'Size::PointType' to 'SHORT', possible loss of data
+E:\c++ projects\Arkanoid\Arkanoid\PaintDevice.cpp(70,32): warning C4244: '=': conversion from 'Size::PointType' to 'SHORT', possible loss of data
+E:\c++ projects\Arkanoid\Arkanoid\PaintDevice.cpp(76,36): warning C4244: '=': conversion from 'Size::PointType' to 'SHORT', possible loss of data
+E:\c++ projects\Arkanoid\Arkanoid\PaintDevice.cpp(77,38): warning C4244: '=': conversion from 'Size::PointType' to 'SHORT', possible loss of data
+E:\c++ projects\Arkanoid\Arkanoid\PaintDevice.cpp(96,32): warning C4244: 'initializing': conversion from 'Vector2::PointType' to 'int', possible loss of data
+E:\c++ projects\Arkanoid\Arkanoid\PaintDevice.cpp(96,17): warning C4244: 'initializing': conversion from 'Vector2::PointType' to 'const int', possible loss of data
+E:\c++ projects\Arkanoid\Arkanoid\PaintDevice.cpp(105,32): warning C4244: 'initializing': conversion from 'Vector2::PointType' to 'int', possible loss of data
+E:\c++ projects\Arkanoid\Arkanoid\PaintDevice.cpp(105,17): warning C4244: 'initializing': conversion from 'Vector2::PointType' to 'const int', possible loss of data
+  Size.cpp
+  Square.cpp
+  Vector2.cpp
+  Generating Code...
+  Arkanoid.vcxproj -> E:\c++ projects\Arkanoid\Debug\Arkanoid.exe
